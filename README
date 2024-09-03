@@ -15,7 +15,6 @@ The wifi credentials are exluded from the version control. To use these programs
     ```
     #pragma once
 
-    const char* WIFI_SSID = "my_wifi_name";
-    const char* WIFI_PWD = "my_secure_password";
+    const char* WIFI_SSID = "BaristaBandwidth";
+    const char* WIFI_PWD = "oneEspressoPLEASE";
     ```
-3. replace `my_wifi_name` and `my_secure_password` with your wifi credentials.
